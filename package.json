@@ -12,9 +12,10 @@
     "mern",
     "chat-app"
   ],
-  "author": "Piyush Agarwal",
+  "author": "Tarun Hawdia",
   "license": "ISC",
   "dependencies": {
+    "@types/react": "^19.1.0",
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
     "dotenv": "^9.0.2",
